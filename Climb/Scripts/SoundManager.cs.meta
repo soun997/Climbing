@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 9fb4df1859dd90b4488164b5c3bcacb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource1: {instanceID: 0}
+  - audioSource2: {instanceID: 0}
+  - btn_click: {fileID: 8300000, guid: 71a3a42765532a746bdda442009751bd, type: 3}
+  - game_start: {fileID: 8300000, guid: 63bd55e646c1e444abc22a02945927f8, type: 3}
+  - game_quit: {fileID: 8300000, guid: 2e6157b3f9827b343a682de51d2e0b33, type: 3}
+  - hold_grab: {fileID: 8300000, guid: 6d065f6dfc06fd34685729484c119ead, type: 3}
+  - Screaming: {fileID: 8300000, guid: 982df992a94e81a43a21e01bdb9176d3, type: 3}
+  - clear: {fileID: 8300000, guid: cf32462511b8207478e3b313dffec9f6, type: 3}
+  - fail: {fileID: 8300000, guid: 2e6157b3f9827b343a682de51d2e0b33, type: 3}
+  - BGM_slider: {instanceID: 0}
+  - effect_slider: {instanceID: 0}
+  - BGM_release: {instanceID: 0}
+  - effect_release: {instanceID: 0}
+  - BGM_mute: {instanceID: 0}
+  - effect_mute: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
